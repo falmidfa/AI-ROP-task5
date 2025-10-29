@@ -4,8 +4,8 @@ It uses **OpenCV**, **NumPy**, and **Pillow** to identify specific colors (yello
 
 ---
  ## To run
-  - Install the required libraries using the terminal (pip install opencv-python numpy pillow
-)
+  - Install the required libraries using the terminal
+     (pip install opencv-python numpy pillow)
   - Open the project in Visual Studio Code (VS Code) or any Python IDE
 
 ---
